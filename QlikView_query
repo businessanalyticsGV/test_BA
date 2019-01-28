@@ -1,6 +1,16 @@
+db_A:
+
 load
     field1,
     sum(field1) as sumOfField1,
     max(field2) as maxOfField2
 Resident
     db1
+
+db_B:
+
+load
+    field1,
+    field3
+from 
+    db2
