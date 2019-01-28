@@ -9,6 +9,8 @@ Resident
 
 db_B:
 
+left join
+
 load
     field1,
     field3
