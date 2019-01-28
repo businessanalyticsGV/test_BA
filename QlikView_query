@@ -1,0 +1,5 @@
+load
+    field1,
+    sum(field1) as sumOfField
+Resident
+    db1
