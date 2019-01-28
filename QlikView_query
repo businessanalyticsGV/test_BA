@@ -1,5 +1,6 @@
 load
     field1,
-    sum(field1) as sumOfField
+    sum(field1) as sumOfField1,
+    max(field2) as maxOfField2
 Resident
     db1
