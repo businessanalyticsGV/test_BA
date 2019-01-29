@@ -5,7 +5,7 @@ load
     sum(field1) as sumOfField1,
     max(field2) as maxOfField2
 Resident
-    db1
+    db1;
 
 db_B:
 
@@ -15,6 +15,7 @@ load
     field1,
     field3
 from 
-    db2
+    db2;
 
-drop table db1
+drop table db1;
+Drop Table db2;
