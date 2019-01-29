@@ -16,3 +16,5 @@ load
     field3
 from 
     db2
+
+drop table db1
